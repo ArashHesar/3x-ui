@@ -638,7 +638,7 @@
 "active" = "💡 Active: {{ .Enable }}\r\n"
 "enabled" = "🚨 Enabled: {{ .Enable }}\r\n"
 "online" = "🌐 Connection status: {{ .Status }}\r\n"
-"email = "📧 Email: <code>{{ .Email }}</code>\r\n"
+"email" = "📧 Email: <code>{{ .Email }}</code>\r\n"
 "upload" = "🔼 Upload: ↑{{ .Upload }}\r\n"
 "download" = "🔽 Download: ↓{{ .Download }}\r\n"
 "total" = "📊 Total: ↑↓{{ .UpDown }} / {{ .Total }}\r\n"
